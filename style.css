@@ -1,0 +1,14 @@
+body{
+    background-color:green ;
+}
+#heading
+{
+    color: black;
+}
+
+#sign
+{
+    box-shadow: yellow 10px 10px 20px;
+    background-color: tomato;
+}
+
